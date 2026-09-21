@@ -1,0 +1,7 @@
+numpy
+scipy
+rasterio
+matplotlib
+sap
+ipywidgets
+jupyterlab
